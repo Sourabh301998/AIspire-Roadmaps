@@ -1,0 +1,7 @@
+streamlit
+streamlit-lottie
+google-generativeai
+requests
+pandas
+wordcloud
+matplotlib
